@@ -54,7 +54,7 @@ System.arraycopy(arr, 0, newArr, 0, arr.length);
 
 ### Real-world Usage
 
-Classes like `ArrayList` automatically create a larger internal array when they run out of capacity and copy the existing elements into the new array before adding more data.
+Classes like ArrayList automatically create a larger internal array when they run out of capacity and copy the existing elements into the new array before adding more data.
 
 ### Key Takeaways
 
