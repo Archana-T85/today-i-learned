@@ -1,4 +1,3 @@
-# Today I Learned (TIL)
 
 ## Topic
 
