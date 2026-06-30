@@ -1,2 +1,10 @@
 # today-i-learned
-My daily learning notes on Java, Java 8, Spring Boot, Frontend Development, Git & GitHub, SQL, and Full-Stack Development.
+Welcome to my learning journal.
+
+This repository contains my daily notes while learning:
+
+- Java
+- Spring Boot
+- Git & GitHub
+- SQL
+- Backend Development
